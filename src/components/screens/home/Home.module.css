@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  background-color: #222;
+  margin: 0px 0px 30px 0px;
+  border: 1px solid grey;
+}
+
+.img {
+  text-align: center;
+}
+
+.img img {
+  max-width: 440px;
+  width: 100%;
+}
+
+.inf {
+  padding: 10px;
+}
+
+.inf p {
+  margin: 0px 0px 15px 0px;
+}
